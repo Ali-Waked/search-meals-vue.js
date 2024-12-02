@@ -1,0 +1,2 @@
+npm i vuex
+npm i -D @tailwindcss/forms
